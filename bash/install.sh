@@ -31,7 +31,7 @@ sudo ufw enable
 
 #####  Run the Gulden Application ####
 
-./guldenserver/Gulden-1.6.1-i686-linux/GuldenD -datadir=./guldenserver/datadir &
+./guldenserver/Gulden-1.6.3-arm-linux-gnueabihf/GuldenD -datadir=./guldenserver/datadir &
 
 
 ############# Create autorun file ####
